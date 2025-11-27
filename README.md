@@ -19,6 +19,18 @@ npm install
 npm start
 ```
 
+## Quick Start
+
+```bash
+# Brain Drain - Knowledge extraction with wild styles
+cd projects/02-brain-drain && npm install && npm start
+# Open http://localhost:3000
+
+# TopicMaster 3000 - Family trivia game
+cd projects/03-topicmaster3000 && npm install && npm start
+# Open http://localhost:3000 (use Chrome for speech recognition!)
+```
+
 ## Why "spittin"?
 
 Because we're spittin' fire with free AI models! 🎤
