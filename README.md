@@ -7,6 +7,7 @@ A collection of experiments with LLMs via OpenRouter.
 | # | Name | Description |
 |---|------|-------------|
 | 01 | [hello-openrouter](./projects/01-hello-openrouter) | Hello world with OpenRouter + Grok free model |
+| 02 | [brain-drain](./projects/02-brain-drain) | 🧠💀 Knowledge extraction with attitude! 10 wild styles + custom slants |
 
 ## Setup
 
